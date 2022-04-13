@@ -7,7 +7,7 @@
 - <a href="https://github.com/srushti1hub/Discord-Kit/tree/main/Fonts" target="_blank">Fonts</a>
 - <a href="https://github.com/srushti1hub/Discord-Kit/tree/main/Logos" target="_blank">Logos</a>
 - <a href="https://github.com/srushti1hub/Discord_Clone/tree/main/assets/images" target="_blank">Images</a>
-- <a href="#" target="_blank">Color Palette</a>
+- <a href="https://github.com/srushti1hub/Discord-Kit/blob/main/color-palette.png" target="_blank">Color Palette</a>
 
 ## References
 - <a href="https://discord.com" target="_blank">Website</a>
