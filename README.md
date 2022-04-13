@@ -1,6 +1,6 @@
 # Discord Website Clone Kit
 
-- The implementation is depicated in repository https://github.com/srushti1hub/Discord_Clone.git
+- The implementation is in repository https://github.com/srushti1hub/Discord_Clone.git
 - This is build using HTML 5 and CSS
 
 ## Resources
